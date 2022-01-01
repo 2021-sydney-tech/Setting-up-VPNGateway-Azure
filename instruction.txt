@@ -1,0 +1,9 @@
+Process of creating a VPN Gateway.
+The VPN Gateway is what will allow you to connect from from one network to another network. So you will be able to connect from your on-premises environment to the a network within Azure through the VPN Gateway.
+
+Step 1: Create a Resource Group: vpngateway
+Step 2: Create a Virtual Network resource: vpngateway1
+
+Step 3: Create a Virtual Network Gateway resource: myvpngw1 
+	    Create IP address: vpngateway1IP
+(This will take from 15min -30min for deployment time)
